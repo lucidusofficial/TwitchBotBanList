@@ -14,6 +14,21 @@ Do not visit, click, or interact with any of the accounts listed. Interaction ma
 * Intended for moderation and safety purposes only
 * Last updated: 13/02/2026
 
+## 📂 Ban List Files
+
+Includes two versions of the ban list for ease of use across different moderation setups:
+
+- **`banlist (slash).txt`**  
+  Uses Twitch’s native `/ban` command.  
+  This is the **recommended and most reliable** option, as `/ban` is officially supported across Twitch chat, Mod View, and most bots.
+
+- **`banlist (dots).txt`**  
+  Uses `.ban` syntax for convenience.  
+  This is included for users who rely on bots or clients that support `.ban` aliases or custom commands.
+
+Both files contain the same accounts and are kept in sync.  
+Choose the format that best matches your moderation workflow or bot configuration.
+
 ## ⚙️ Tools Used to Maintain the List
 
 The following tools are used to clean and manage the list:
