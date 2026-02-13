@@ -43,7 +43,7 @@ The following tools are used to clean and manage the list:
 
 ## 🔵 Fossabot Mass Ban
 
-You can load the "banlist (slash).txt" directly using the raw GitHub file URL:
+You can load the **`"banlist (slash).txt"`** directly using the raw GitHub file URL:
 
 !filesay \[copied raw github url]
 
