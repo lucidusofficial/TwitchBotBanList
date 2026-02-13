@@ -12,7 +12,6 @@ Do not visit, click, or interact with any of the accounts listed. Interaction ma
 * One account per line
 * Duplicate entries are removed before updates
 * Intended for moderation and safety purposes only
-* Last updated: 13/02/2026
 
 ## 📂 Ban List Files
 
