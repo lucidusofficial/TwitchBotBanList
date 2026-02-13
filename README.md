@@ -1,4 +1,4 @@
-### TwitchBotBanList
+### \# TwitchBotBanList
 
 A curated, alphabetically ordered list of Twitch accounts identified as bots, spam accounts, IP grabbers, or other malicious actors.
 
@@ -8,13 +8,13 @@ Intended to help streamers and moderators protect their communities.
 
 ---
 
-##### ⚠️ Warning
+##### \## ⚠️ Warning
 
 Do not visit, click, or interact with any of the accounts listed. Interaction may expose you to IP grabbers or other malicious behaviour.
 
 ---
 
-##### 📝 About the List
+##### \## 📝 About the List
 
 * Accounts are sorted **A–Z**
 * One account per line
@@ -24,7 +24,7 @@ Do not visit, click, or interact with any of the accounts listed. Interaction ma
 
 ---
 
-##### ⚙️ Tools Used to Maintain the List
+##### \## ⚙️ Tools Used to Maintain the List
 
 The following tools are used to clean and manage the list:
 
@@ -37,21 +37,21 @@ The following tools are used to clean and manage the list:
 * **Remove duplicate entries:**  
   https://journaltoolkit.com/tools/text-duplicate-finder
 
-##### 🛑 Disclaimer
-
-This list is provided as-is for moderation purposes.  
-
-The maintainer assumes no responsibility for misuse, false positives, or moderation outcomes.
-
 ---
 
-##### 🔵 Fossabot Mass Ban
+##### \## 🔵 Fossabot Mass Ban
 
 You can load the list directly using the raw GitHub file URL:
 
 !filesay \[copied raw github url]
 
+---
 
+##### \## 🛑 Disclaimer
+
+This list is provided as-is for moderation purposes.
+
+The maintainer assumes no responsibility for misuse, false positives, or moderation outcomes.
 
 
 
