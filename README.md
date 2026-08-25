@@ -52,7 +52,7 @@ You can load the **`"banlist (slash).txt"`** directly using the raw GitHub file 
 
 If your Twitch channel has been targeted by **follow bots**, or you need to remove unwanted followers, you can use this:
 
-* **Twitch Follower Remover:**  
+* **Twitch Follower Remover by @CommanderRoot:**  
   https://twitch-tools.rootonline.de/follower_remover.php
 
 ---
@@ -61,16 +61,3 @@ If your Twitch channel has been targeted by **follow bots**, or you need to remo
 
 This list is provided as-is for moderation purposes.
 The maintainer assumes no responsibility for misuse, false positives, or moderation outcomes.
-
-
-
-
-
-
-
-
-
-
-
-
-
